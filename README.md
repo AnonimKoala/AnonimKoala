@@ -6,7 +6,7 @@ I'm a passionate student in the third year of Technical High School, specializin
 Excited about the programming world, I'm on a learning journey to become a proficient software developer.
 
 ## 🚀 Technologies I Work With
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,php,mysql,github,git,js,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,php,mysql,github,git,js,html,css)](https://skillicons.dev)
 
 ## 🛠️ Current Projects
 I'm actively involved in crafting various smaller projects for school assignments and competitions, <br>
