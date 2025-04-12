@@ -2,7 +2,7 @@
 I'm Robert Kubasiak
 
 ## 🎓 About Me
-I'm a passionate student in the third year of Technical High School, specializing in software development. <br>
+I'm a passionate student in the fourth year of Technical High School, specializing in software development. <br>
 Excited about the programming world, I'm on a learning journey to become a proficient software developer.
 
 ## 🚀 Technologies I Work With
