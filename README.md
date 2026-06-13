@@ -1,4 +1,4 @@
-# 🪴Junior Software Developer | Backend & Systems Enthusiast
+# 🪴Software Developer | Backend & Systems Enthusiast
 I am Robert Kubasiak
 
 ## 🔎 About Me
