@@ -14,5 +14,5 @@ strengthening my backend development skills through practical implementation.
 
 ## 📫 How to reach me:
 🔗 Linkedin: [Robert Kubasiak](https://www.linkedin.com/in/robert-kubasiak-51a606278/)<br>
-📧 Email: robert2006goetel@gmail.com 
+📧 Email: robert.kubasiak@proton.me
 <hr>
