@@ -1,18 +1,20 @@
-# 🪴Software Developer | Backend & Systems Enthusiast
-I am Robert Kubasiak
+# Robert Kubasiak
+**Software Developer | Backend & Systems**
 
-## 🔎 About Me
-I am a Junior Software Developer with a strong foundation in programming and software engineering principles. <br>Focused on building efficient, maintainable solutions and continuously expanding technical expertise through practical projects and hands-on experience.
+I study **Computer Science and Intelligent Systems** at **AGH University of Krakow**. I enjoy working closer to the backend and systems layer—building APIs, working with relational databases, and understanding how software behaves under the hood.
 
-## 🚀 Technologies I Work With
-[![My Skills](https://skillicons.dev/icons?i=py,php,js,mysql,github,java,cpp,git,css,go)](https://skillicons.dev)
+## 🚀 Tech Stack
+**Core & University Work:** Python, C++, Java, SQL (MySQL), Git  
+**Currently Exploring:** Go, REST API design, backend architecture  
+**Familiar With:** PHP, JavaScript, HTML/CSS
 
-## 📈 Current Projects
-I'm currently learning Go fundamentals and developing an application featuring a REST API and data management, <br>
-inspired by social platforms with integrated statistics,
-strengthening my backend development skills through practical implementation.
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,mysql,git,github,php,go,js,css)](https://skillicons.dev)
 
-## 📫 How to reach me:
+## 🪴 What I'm Building
+- **Social Analytics Backend (Go):** A hands-on project to learn idiomatic Go, RESTful API design, database modeling, and aggregating user/content statistics.
+- **AGH Coursework & Labs:** Implementing algorithms, low-level/systems programming, and data/intelligent systems tasks in C++ and Python.
+
+## 📫 Contact:
 🔗 Linkedin: [Robert Kubasiak](https://www.linkedin.com/in/robert-kubasiak-51a606278/)<br>
 📧 Email: robert.kubasiak@proton.me
 <hr>
